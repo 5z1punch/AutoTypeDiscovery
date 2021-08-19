@@ -1,7 +1,7 @@
-# Fastjson Auto Type Discovery and visualization
+# Fastjson Auto Type Discovery and Visualization
 ![](pic/demo.png)
 
-Blackhat USA 2021 Session ---- *How I Used a JSON Deserialization 0day to Steal Your Money on the Blockchain*
+Blackhat USA 2021 Session ---- *[How I Used a JSON Deserialization 0day to Steal Your Money on the Blockchain](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Xing-How-I-Used-a-JSON.pdf)*
 
 ## Usage
 
